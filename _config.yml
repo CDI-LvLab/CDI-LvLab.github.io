@@ -55,7 +55,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 1030px
+max_width: 1080px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -192,6 +192,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news/announcement_*.md
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
