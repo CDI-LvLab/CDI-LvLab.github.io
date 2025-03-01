@@ -199,7 +199,7 @@ exclude:
   - _includes/repository/
   - _pages/cv.md
   - _includes/cv/
-  
+  - _includes/social.liquid
   
 keep_files:
   - CNAME
