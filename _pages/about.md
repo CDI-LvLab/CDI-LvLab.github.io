@@ -31,8 +31,11 @@ latest_posts:
 ---
 ## Dr. Weiwei Guo
 Associate Professor at the College of Design and Innovation, Tongji University
+
 Master and Ph.D. Supervisor. 
+
 Center of Digitial Innovation (CDI),
+
 Tongji-MIT City Science Lab@Shanghai (CSL).
 
 Our main research lie in artificial intelligence, especially its applications in the fields of earth observation (EO), embodied intelligence and human-robot interaction, human-computer interaction
