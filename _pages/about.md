@@ -2,16 +2,13 @@
 layout: about
 title: 
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://tjdi.tongji.edu.cn/?lang=en'>AffilCollege of Design and Innovation, Tongji Universityiations</a>. No.281 Fuxin Road, Yangpu District. Shanghai, China.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>No.281 Fuxin Road, Yangpu District</p>
-    <p>College of Design and Innovation, Tongji University</p>
-    <p>Shanghai, China</p>
+  # more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
