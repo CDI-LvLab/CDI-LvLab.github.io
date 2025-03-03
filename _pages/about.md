@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: <a href='https://tjdi.tongji.edu.cn/?lang=en'>AffilCollege of Design and Innovation, Tongji Universityiations</a>. No.281 Fuxin Road, Yangpu District. Shanghai, China.
+subtitle: <a href='https://tjdi.tongji.edu.cn/?lang=en'>College of Design and Innovation, Tongji University</a>. Shanghai, China.
 
 profile:
   align: right
