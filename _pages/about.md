@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -39,7 +39,7 @@ Our main research lie in artificial intelligence, especially its applications in
 
 
 <div class="clustrmaps-container">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=o7aLd-utJ6Psw2GRNoYQxW3-FoLBK6NG7a1ROqbonk0&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=o7aLd-utJ6Psw2GRNoYQxW3-FoLBK6NG7a1ROqbonk0"></script>
 </div>
 
 
