@@ -36,3 +36,7 @@ Center of Digitial Innovation (CDI),
 Tongji-MIT City Science Lab@Shanghai (CSL).
 
 Our main research lie in artificial intelligence, especially its applications in the fields of earth observation (EO), embodied intelligence and human-robot interaction, human-computer interaction
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=o7aLd-utJ6Psw2GRNoYQxW3-FoLBK6NG7a1ROqbonk0&cl=ffffff&w=a"></script>
